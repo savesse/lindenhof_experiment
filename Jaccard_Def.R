@@ -152,7 +152,6 @@ species_count
 
 # max(species_count$n_species)
 
-# I will plot it
 
 ggplot(species_count,
        aes(year,
